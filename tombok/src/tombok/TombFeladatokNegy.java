@@ -13,6 +13,7 @@ public class TombFeladatokNegy {
 
     /**
      * @param args the command line arguments
+     * itt jart Doki
      */
     public static void main(String[] args) {
 //Tombot szetvalogat paros es paratlan tombre: // ez egyszeru es lefutott ezert kikommenteztem
